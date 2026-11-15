@@ -1,0 +1,21 @@
+{
+  "name": "Radiantly",
+  "url": "https://radiantly.space/pricing",
+  "description": "Branded AI agents for experts, with interactive experiences and personalized responses for each client, connected to 1,600+ apps",
+  "category": "ai",
+  "platforms": [
+    "web"
+  ],
+  "deal": "60% off first annual subscription payment for new users with code BF60; renewals at regular price",
+  "pricing": "subscription",
+  "price": {
+    "regular": 228,
+    "sale": 91.2,
+    "currency": "USD"
+  },
+  "discount": 60,
+  "code": "BF60",
+  "startDate": "2026-11-15",
+  "endDate": "2026-12-15",
+  "icon": "https://radiantly.space/radiantly.png"
+}
